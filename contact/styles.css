@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
+
+body{
+   margin: 0;
+   background-image: url('./../images/bg.webp');
+   font-family: "Rubik";
+   letter-spacing: 2px;
+}
+
+.sidebar{
+   position: fixed;
+   width: 20%;
+   top:0;
+   left: 0;
+   bottom: 0;
+   background: #111;
+   padding-top: 50px;
+   overflow-y: scroll;
+}
+ 
+.sidebar img{
+   display: block;
+   height: 5%;
+   padding:0px 20px;
+   margin-bottom: 2rem;
+}
+
+.sidebar a{
+   display: block;
+   padding: 10px 20px;
+   color: #bbb;
+   text-decoration: none;
+   font-family: "Rubik";
+   letter-spacing: 2px;
+}
+
+.sidebar a:hover{
+   color: #fff;
+   margin-left: 20px;
+   transition: 0.4s;
+}
+main
+{
+   color: white;
+	margin-left: 20%;
+	display: flex;
+   width: 80%;
+   height: 100vh;
+   align-items: center;
+   justify-content: center;
+   flex-direction: column;
+}
+h1{
+   text-transform: uppercase;
+   padding: 3rem;
+}
+
+header,main{
+   text-align: center;
+}
+
+main div{
+   text-align: center;
+
+}
+
+.st{
+   text-decoration: line-through;
+}
+
+.button{
+   color: white;
+   text-decoration: none;
+   display: inline-block;
+   margin: 1rem;
+   padding: 1rem 2rem;
+   background-color: rgba(80, 82, 88, 0.5);
+   border-radius: 4px;
+}
+
+.button :hover{
+   cursor: pointer;
+}
