@@ -1,11 +1,11 @@
 import '@/styles/globals.css'
-import HeroSection from '@/components/HeroSection'
+import Scope from '@/components/Scope'
 
 
 export default function Home() {
   return (
     <main className="">
-      <HeroSection />
+      <Scope />
     </main>
   )
 }
