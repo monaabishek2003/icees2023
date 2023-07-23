@@ -5,7 +5,7 @@ const Scope = () => {
     <div className='lg:w-4/5 ml-auto p-8 flex justify-center items-center min-h-screen'>
         <div className='max-w-[500px]'>
             <h2 className='py-4'>SCOPE OF THE CONFERENCE</h2>
-            <p>TheNinth International Conference
+            <p>The Ninth International Conference
                 on Electrical Energy Systems -
                 2023 [ICEES-2023] is the premier
                 interdisciplinary platform to
