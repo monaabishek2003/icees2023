@@ -22,7 +22,7 @@ const SideBar = () => {
                 committee</Link>
             <Link href="/national-advisory-committee/">National Advisory
                 committee</Link>
-            <Link href="/technical-co-sponsorship-committee/">Technical
+            <Link href="/technical-cosponsorship-committee/">Technical
                 Co-Sponsorship Committee</Link>
             <Link href="/technical-program-committee/">Technical Program
                 Committee</Link>
